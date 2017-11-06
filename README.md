@@ -3,7 +3,7 @@
 [![codecov.io](http://codecov.io/github/graphframes/graphframes/coverage.svg?branch=master)](http://codecov.io/github/graphframes/graphframes?branch=master)
 
 
-# GraphFrames: DataFrame-based Graphs
+## GraphFrames: DataFrame-based Graphs
 
 This is a package for DataFrame-based graphs on top of Apache Spark.
 Users can write highly expressive queries by leveraging the DataFrame API, combined with a new
